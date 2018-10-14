@@ -31,7 +31,3 @@ for i in range(275):
 
 for i, joke in zip(range(275,0,-1), jokes):
     print("{}. {}".format(i, joke))
-
-
-
-
